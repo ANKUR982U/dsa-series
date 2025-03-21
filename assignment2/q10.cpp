@@ -8,5 +8,5 @@ int main(){
         cout<<"value of b is "<<b<<endl;
         cout<<"value of c is "<<c<<endl;
         return 0;
-    
+     
 }
